@@ -84,7 +84,7 @@ This bot is designed for specialized usage in NUS halls, unlike commercial laund
 
 ---
 
-#### **Milestone 3\**
+#### **Milestone 3**
 - Add advanced features:  
   - `/chat` for public messages with others in the same dryer queue  
   - `/message` to privately message next user  
